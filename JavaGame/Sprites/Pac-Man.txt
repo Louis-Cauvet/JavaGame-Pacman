@@ -1,0 +1,5 @@
+1- Statique
+2- Droite
+3- Gauche
+4- Haut
+5- Bas
