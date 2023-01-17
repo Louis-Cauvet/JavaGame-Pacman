@@ -21,8 +21,4 @@ Ce n'est pas le projet le plus abouti techniquement et graphiquement, nous avons
 
 
 ### Quelques images du projet 📷
-![image du projet 1](https://github.com/Louis-Cauvet/Anno-1702/blob/main/Images/Capture1.PNG)
-</br></br>
-![image du projet 2](https://github.com/Louis-Cauvet/Anno-1702/blob/main/Images/Capture2.PNG)
-</br></br>
-![image du projet 3](https://github.com/Louis-Cauvet/Anno-1702/blob/main/Images/Capture3.PNG)
+![image du projet 1](https://github.com/Louis-Cauvet/JavaGame-Pacman/blob/main/Images/Capture1.PNG)
